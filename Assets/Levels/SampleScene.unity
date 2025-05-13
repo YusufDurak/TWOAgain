@@ -2020,6 +2020,37 @@ CapsuleCollider2D:
   m_Offset: {x: -0.117352635, y: -0.90304005}
   m_Size: {x: 0.7, y: 0.2}
   m_Direction: 1
+--- !u!1 &1932762103
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1932762104}
+  m_Layer: 0
+  m_Name: DenemeObjesi
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1932762104
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932762103}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -34.004555, y: 2.0570042, z: -0.14861871}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1936136978
 GameObject:
   m_ObjectHideFlags: 0
@@ -2368,3 +2399,4 @@ SceneRoots:
   - {fileID: 2084479525}
   - {fileID: 2023366646}
   - {fileID: 554347945}
+  - {fileID: 1932762104}
